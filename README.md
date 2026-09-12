@@ -1,4 +1,6 @@
-
+<br>👻 Hello, I’m Avelito.<br>
+<br>💀 I’m interested in ... Code, Software Development, Improving my skills and Create new technologies.<br>
+<br>💬 How to reach me ... Send me an email or add me on LinkedIn!<br>
 
 ```sh-session
 pip --install --upgrade brain.py
