@@ -15,4 +15,4 @@ pip --install --upgrade brain.py
 
 
 
-<br>![170831467-bf7bc0ce-fc1b-4396-8856-2749ce47280e](https://githubusercontent.com/edaa4fc2655f53e3b62a544630cbeb05f6ed2d961d1286408cfaa46d03d7027f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61622f63342f35622f61626334356239633335366662623834363633326630313061613361343465662e676966)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blxck-2001&hide=javascript,css,scss,html&theme=tokyonight)
