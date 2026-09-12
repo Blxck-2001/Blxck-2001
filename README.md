@@ -15,4 +15,4 @@ pip --install --upgrade brain.py
 
 
 
-<br>[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blxck-2001)](https://github.com/blxck-2001/github-readme-stats)
+<br>[![Black's GitHub stats](https://github-stats-extended.vercel.app/api?username=blxck-2001)](https://github.com/stats-organization/github-stats-extended)
