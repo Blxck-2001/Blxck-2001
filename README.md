@@ -16,4 +16,5 @@ pip --install --upgrade brain.py
 
 
 <br>[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Blxck-2001&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Blxck-2001&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Blxck-2001&layout=donut&langs_count=9&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Blxck-2001&layout=donut&langs_count=9&theme=dark_github)
 
